@@ -1,0 +1,17 @@
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\Fiche_patient.csprojAssemblyReference.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\MainWindow.g.cs
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\App.g.cs
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\Fiche_patient_MarkupCompile.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\Fiche_patient_MarkupCompile.lref
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\bin\Debug\Fiche_patient.exe.config
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\bin\Debug\Fiche_patient.exe
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\bin\Debug\Fiche_patient.pdb
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\MainWindow.baml
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\Fiche_patient.g.resources
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\Fiche_patient.Properties.Resources.resources
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\Fiche_patient.csproj.GenerateResource.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\Fiche_patient.csproj.CoreCompileInputs.cache
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\Fiche_patient.exe
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\Fiche_patient.pdb
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\fiche.g.cs
+C:\Users\hfraix\Desktop\IPI\M1_CP\JUBIN\EXO_C#\Windows form\exos-windows-form-LilFlowtante\WPF\Fiche_patient\obj\Debug\fiche.baml

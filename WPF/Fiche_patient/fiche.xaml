@@ -1,0 +1,47 @@
+﻿<Window x:Class="Fiche_patient.fiche"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fiche_patient"
+        mc:Ignorable="d"
+        Title="fiche" Height="450" Width="462">
+    <Grid>
+        <!-- Titre -->
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="401" Margin="10,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="435"/>
+        <Label Content="Fiche Patient" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Height="31" Margin="125,20,0,0" VerticalAlignment="Top" Width="150" Foreground="Blue"/>
+        
+        <!-- Nom -->
+        <Label Content="Nom" HorizontalAlignment="Left" Height="28" Margin="21,69,0,0" VerticalAlignment="Top" Width="190"/>
+        <!-- Prénom -->
+        <Label Content="Prénom" HorizontalAlignment="Left" Height="28" Margin="21,97,0,0" VerticalAlignment="Top" Width="190"/>
+        <!-- Date de naissance -->
+        <Label Content="Date de naissance" HorizontalAlignment="Left" Height="28" Margin="21,130,0,0" VerticalAlignment="Top" Width="190"/>
+        <!-- Lieu -->
+        <Label Content="Lieu" HorizontalAlignment="Left" Height="28" Margin="21,163,0,0" VerticalAlignment="Top" Width="190"/>
+        <!-- Adresse -->
+        <Label Content="Adresse" HorizontalAlignment="Left" Height="28" Margin="21,196,0,0" VerticalAlignment="Top" Width="190"/>
+        <!-- Ville -->
+        <Label Content="Ville" HorizontalAlignment="Left" Height="28" Margin="21,229,0,0" VerticalAlignment="Top" Width="190"/>
+        <!-- Code postal -->
+        <Label Content="Code Postal" HorizontalAlignment="Left" Height="28" Margin="21,262,0,0" VerticalAlignment="Top" Width="190"/>
+        <!-- Tel portable -->
+        <Label Content="Tél portable" HorizontalAlignment="Left" Height="28" Margin="21,295,0,0" VerticalAlignment="Top" Width="190"/>
+        <!-- Tel fixe -->
+        <Label Content="Tél fixe" HorizontalAlignment="Left" Height="28" Margin="21,328,0,0" VerticalAlignment="Top" Width="190"/>
+        <!-- Observations -->
+        <Label Content="Observations" HorizontalAlignment="Left" Height="28" Margin="21,361,0,0" VerticalAlignment="Top" Width="190"/>
+        
+        <Label Name="name_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,69,-12.667,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+        <Label Name="firstname_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,102,0,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+        <Label Name="birthday_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,135,0,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+        <Label Name="place_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,168,0,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+        <Label Name="adress_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,201,0,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+        <Label Name="city_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,234,0,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+        <Label Name="cp_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,267,0,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+        <Label Name="portable_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,300,0,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+        <Label Name="fix_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,333,0,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+        <Label Name="observation_fc" Content="Nom" HorizontalAlignment="Left" Height="28" Margin="216,366,0,0" VerticalAlignment="Top" Width="190" Foreground="Green"/>
+
+    </Grid>
+</Window>
